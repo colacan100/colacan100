@@ -5,6 +5,7 @@
   <a href="colacan100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/colacan100@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
