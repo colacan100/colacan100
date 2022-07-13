@@ -1,14 +1,14 @@
-### 🤞 Nice way to meet me
+<h3 align="center"> 🤞 Nice way to meet me </h3>
 
-<p>
+<p align="center">
   <a href="https://velog.io/@colacan100" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="colacan100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/colacan100@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
-### 💪 Skills
-#### Platforms & Languages
-<p>
+<br>
+<h3 align="center"> 💪 Skills </h3>
+<h4 align="center"> Platforms & Languages </h4>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
