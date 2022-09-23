@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://velog.io/@colacan100" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="colacan100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/colacan100@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://discreet-van-b53.notion.site/831f913222444edb88bf5efa0ef8bafd" target="_blank"><img src="https://img.shields.io/badge/Profile-darkblue?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://discreet-van-b53.notion.site/ad9d395f45c24aea9fbd32aee0c27516" target="_blank"><img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 <h3 align="center"> 💪 Skills </h3>
 <h4 align="center"> Platforms & Languages </h4>
